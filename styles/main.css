@@ -1,0 +1,26 @@
+html,body{
+	background: url('../images/bg.jpg') no-repeat   center center fixed;
+	height: 100%;
+	background-size: cover;
+}
+
+#logo img{
+	padding-top: 20px;
+	display: block;
+    margin: 0 auto;
+}
+
+#intro p{
+	color: White;
+	text-align: center;
+	font-family: 'Just Another Hand', cursive;
+	font-size: 1.8em;
+}
+
+#counter .countdown{
+	color: White;
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	font-size: 3em;
+	margin: -15px 0 0;
+}
